@@ -12,9 +12,6 @@ int main()
         for (int q = 0; q<i; q++){
             printf("*");
         }
-        for (int q = 0; q<n-j; q++){
-            printf(" ");
-        }
         printf("\n");
     }
 
