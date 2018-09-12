@@ -6,9 +6,8 @@ int main() {
     char command[250];
     while (1) {
         printf("> ");
-        scanf("%s", command);
-        char *token = strtok(command, " "); 
-        system(token);
+        scanf(" %[^\t\n]s", command);
+        system(command);
     }
     return 0;
 }
