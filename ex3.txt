@@ -1,0 +1,7 @@
+-rwxrwxrwx 1 root root 0 Oct 25 19:54 _ex3.txt
+-rw-rw-rw- 1 root root 0 Oct 25 19:54 _ex3.txt
+-rwxrw-rwx 1 root root 0 Oct 25 19:54 _ex3.txt
+-rwxrwxrwx 1 root root 0 Oct 25 19:54 _ex3.txt
+What does 660 mean for ex3.txt?   - rw-rw----
+What does 775 mean for ex3.txt?   - rwxrwxr-x
+What does 777 mean for ex3.txt?   - rwxrwxrwx
